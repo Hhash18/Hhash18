@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hhash18&label=Profile%20views&color=0e75b6&style=flat" alt="hhash18" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS**
+- 🌱 I’m currently learning **Web Technologies**
 
 - 📫 How to reach me **hashani1224@gmail.com**
 
